@@ -10,7 +10,7 @@
 
 public class Cone {
     double calcTerulet(double a, double b) {
-        double terulet = a * b;
+        double terulet = (2*a*2*b)/2;
         return terulet;
     }
 }
